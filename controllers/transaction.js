@@ -7,11 +7,13 @@ module.exports = {
         await ctx.render("Transaction.html");
     },
 
+    //send_to : 0x1695edcb87D65DE4844bA9015267603Fa79BdFa0
+
     //发送转账交易
     sendTransaction: async (ctx) => {
         const {fromaddress, toaddress, number, privatekey} = ctx.request.body;
 
-        var tx = require("ethereumjs-tx");
+        var Tx = require("ethereumjs-tx");
         var privateKey = new Buffer(privateKey.slice(2), "hex");
 
         const nonce = await web3.eth.getTransactionCount(fromaddress);

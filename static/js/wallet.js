@@ -63,7 +63,21 @@ function unlockAccountWithPrivateKey() {
             refreshAccountInfo(res.data);
         }
     });
+}
 
+$(document).ready(function () {
+
+    $("input[name=unlocktype]").change(function () {
+        if (this.value == 1) {
+            $("#unlock-keystore").show();
+            $("#unlock-privatekey").hide();
+        } else {
+            $("#unlock-keystore").hide();
+            $("#unlock-privatekey").show();
+        }
+    });
+
+    //transaction
     //真正的转账交易,表单提交方法
     $("#send_transaction_form").validate({
         rules: {
@@ -83,11 +97,9 @@ function unlockAccountWithPrivateKey() {
             }
         },
         submitHandler: function (form) {
-            var urlStr = "/sendtransaction";
-            alert(urlStr);
             $(form).ajaxSubmit({
-                url: urlStr,
-                type: "POST",
+                url: "/sendtransaction",
+                type: "post",
                 dataType: "json",
                 success: function (res, status) {
                     console.log(status + JSON.stringify(res));
@@ -103,21 +115,5 @@ function unlockAccountWithPrivateKey() {
             });
         }
     })
-}
-
-
-$(document).ready(function () {
-
-    $("input[name=unlocktype]").change(function () {
-        if (this.value == 1) {
-            $("#unlock-keystore").show();
-            $("#unlock-privatekey").hide();
-        } else {
-            $("#unlock-keystore").hide();
-            $("#unlock-privatekey").show();
-        }
-    })
-
-    //transaction
 
 });

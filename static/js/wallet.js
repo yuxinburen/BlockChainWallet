@@ -12,8 +12,11 @@ function refreshAccountInfo(data) {
     $("#unlock_account").hide();
     $("#send-transaction").show();
 
-    $("input[name=from_address]").val(data.address);
+    $("input[name=fromaddress]").val(data.address);
     $("input[name=privatekey]").val(data.privatekey);
+
+    $("input[name=fromaddress]").show();
+    $("input[name=privatekey]").show();
 }
 
 
@@ -50,19 +53,29 @@ function unlockAccountWithKeystore() {
     })
 }
 
-
 //通过私钥解锁账户
 function unlockAccountWithPrivateKey() {
     let privateKey = $("#input_privateKey").val();
     console.log(privateKey);
 
     $.post("/unlockAccountWithPrivateKey", `privatekey=${privateKey}`, function (res, status) {
-        console.log(status + JSON.stringify(res))
+        console.log(status + JSON.stringify(res));
         if (res.code == 0) {
             //将服务端返回的账户信息显示到页面
             refreshAccountInfo(res.data);
         }
     });
+}
+
+//查询交易详情
+function checkTransaciton() {
+    var hash = $("#transaction_hash").val();
+    $.post("/querytransaction", "hash=" + hash, function (res, status) {
+        console.log(status + JSON.stringify(res));
+        if (res.code == 0) {
+            $("#transaction_info").text(JSON.stringify(res.data, null, 4));
+        }
+    })
 }
 
 $(document).ready(function () {
@@ -82,19 +95,19 @@ $(document).ready(function () {
     $("#send_transaction_form").validate({
         rules: {
             to_address: {
-                required: true
+                required: true,
             },
             to_number: {
-                required: true
-            }
+                required: true,
+            },
         },
         messages: {
-            to_address: {
+            toaddress: {
                 required: "请输入对方地址",
             },
             number: {
-                required: "请输入转账金额",
-            }
+                required: "请输入转账数额"
+            },
         },
         submitHandler: function (form) {
             $(form).ajaxSubmit({
@@ -110,7 +123,7 @@ $(document).ready(function () {
                     }
                 },
                 error: function (res, status) {
-                    console.log(status + JSON.stringify(res));
+                    console.log(status + JSON.stringify(res))
                 }
             });
         }

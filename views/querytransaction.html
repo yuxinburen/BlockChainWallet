@@ -1,0 +1,23 @@
+<html>
+<head>
+    <title>query transaction</title>
+    <script src="js/lib/jquery-3.3.1.min.js"></script>
+    <script src="/js/lib/jquery.url.js"></script>
+    <script src="js/wallet.js"></script>
+    <link rel="stylesheet" href="css/wallet.css">
+</head>
+<body>
+<div id="nav"></div>
+<script>
+    $("#nav").load("html/nav.html")
+</script>
+
+<div id="main">
+    <h1>Query transaction</h1>
+    <input type="text" id="transaction_hash">
+    <button onclick="checkTransaciton()">查询</button>
+    <pre id="transaction_info"></pre>
+</div>
+
+</body>
+</html>

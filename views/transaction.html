@@ -2,8 +2,8 @@
 
 <head>
     <title>Transaction</title>
-    <script src="js/lib/jqery.url.js"></script>
     <script src="js/lib/jquery-3.3.1.min.js"></script>
+    <script src="js/lib/jquery.url.js"></script>
     <script src="js/wallet.js"></script>
     <link rel="stylesheet" href="css/wallet.css"/>
 </head>
@@ -56,15 +56,23 @@
             <form id="send_transaction_form">
                 <div>
                     <span>对方地址</span>
-                    <input type="text" name="to_address"/>
+                    <input type="text" name="toaddress"/>
                 </div>
                 <div>
                     <span>发送金额</span>
-                    <input type="text" name="to_number"/>
+                    <input type="text" name="number"/>
                 </div>
 
-                <input name="from_address" hidden="hidden"/>
-                <input name="privatekey" hidden="hidden"/>
+                <br>
+                <div>
+                    <span>转出地址：</span>
+                    <input name="fromaddress" hidden="hidden" type="text"/>
+                </div>
+                <div>
+                    <span>私钥：</span>
+                    <input name="privatekey" hidden="hidden" type="text"/>
+                </div>
+
                 <button type="submit">发送交易</button>
             </form>
 

@@ -19,5 +19,9 @@ router.post("/unlockAccountWithPrivateKey", accountController.unlockAccountWithP
 router.get("/transaction", transactionController.transactionHtml);
 router.post("/sendtransaction", transactionController.sendTransaction);
 
+//查询交易的的html页面及查询业务
+router.get("/query", transactionController.queryHtml);
+router.post("/querytransaction", transactionController.queryTransaction);
+
 
 module.exports = router;

@@ -2,50 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c6f62de-34fc-4773-8c6f-2e39928cf810" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/views/querytransaction.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/transaction.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/transaction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/router/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/html/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/html/nav.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/js/wallet.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/wallet.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-20T12:16:22.739Z--de01582a31D33288FbF22bbB31B181cAd250446c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-20T12:22:48.690Z--d534Df3cd188FD9ec4D95365027E2e71E1AACad7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-20T12:25:59.100Z--99826e8C0653DABe4D3Ba8Db529cd09FF4Fdd4F9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-20T12:29:06.198Z--959ACc1F6486737195790cC00d63e44bd1840c10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-20T12:29:06.283Z--Af717C63F41b4154BC477bb241C894369b105D3E" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-20T12:41:50.293Z--194EcEed495ce0aa1BE3a9009388a3635eD5408F" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-20T12:44:41.450Z--4B4047985D547A61C0EE5b934222d51266B16060" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-20T12:45:37.484Z--d5661750b9A287e111c17727BFE90960A2d1701a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-20T12:47:44.312Z--7d7e89E30aEb972Ff0516Dc8C40d170688C75b37" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-20T15:00:03.045Z--75b4D56f8DFCc21bbFDe25ddEa53AeAdEa04FaB5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T06:52:30.589Z--8fe34Cd7a410a22F26d3C5A93f85b2f50FD19b9F" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T06:54:37.888Z--a7a408F2E9cE7abad75163dfC0B77dFc8ED6C3dE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T06:57:06.624Z--cC9D9972e67e8eF2D5fbb143b08b5fD8C0d7C09C" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T08:23:30.637Z--91Af7a5ddCa593a8389765b9491815f8e6518285" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T08:30:37.037Z--290764B6dc115f3c2E7bC22736aDC69fF666Ad7B" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T08:32:13.543Z--9A2Cb4ee098EC0EdB5120286D90F6D90d29e5dd3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T08:33:56.934Z--E729795080b782f9d0F427583858B4CaB8144081" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T08:35:06.155Z--0fD8dAb4188C47450C4a5F3978e330B714e674fE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T08:39:49.701Z--924466202262342C8Fdd55d1aA8Aab7e6FcBc77E" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T09:16:10.511Z--6dBc08a0ebcE6914D597604928a646021D22e068" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T09:18:31.965Z--Fbb670006a12C3DdE7B953128bA457499425ecFE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T09:19:59.146Z--49595a550Aaf38cD2e225F2EE700672f668eD177" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T09:21:08.642Z--8119733e2C1E254A691D783fc3B0f3BC93794D28" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T09:21:39.449Z--193C0BC8A47867233A67e65A7AD90af911296ae6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T09:35:54.867Z--95EAE24B10Cc3567dB54670bCE51f36068512E37" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T09:36:53.750Z--7B905c8B6e23f70bE6d09DBDd36d96686D979e13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T09:39:42.452Z--B6c281A5E0c0C19a8F19fb1c9D597A0A022F899B" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T12:50:55.954Z--c5BA5ACFc82011E9b406E2a8C2746DED4FA0CE6F" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T13:06:35.092Z--2EeBcD8ec615Ee98c9b8be53572F296BE60fe684" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T13:12:38.479Z--961A01Aaa1f7BC04c33432efAa73405E5d2ff654" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T13:12:38.550Z--9fcc9d2a17d92C1D5DD0B3f36c0F947C8D4b0949" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T13:43:13.087Z--A85F6da5399B611c191bFA54fF14B3353FBC722a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T13:49:18.385Z--1222c4C61678EAE1897DDF3C7DA70FD2172dbb77" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T13:52:40.689Z--2278CDb714B991cb188664A5EAcd7C248945C796" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T13:56:03.874Z--9D127d7C296BEABa075bF323AB42139907f03227" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T13:57:28.755Z--58f10B2114Ad302E03b5B0479760EEDa5d020Cd0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T14:27:18.432Z--344E8956001D6F9FcF21e9EAB07C4d32315a894D" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T14:28:52.670Z--E47AbE3868aEaa912ac48c1FBFC12079f31a53fF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T14:34:27.948Z--DcEBeDec69D4877EffB7930dA8741A353FC06fF3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T14:37:13.552Z--708CAD07Cf97015aa264D2054607ff932A344489" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/keystore/UTC--2018-08-21T14:42:07.827Z--E26033cd170A5575133F2c7Bb5C5F39D907c887c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/CreateAccount.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/createAccount.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/Transaction.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/transaction.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,38 +24,38 @@
     <session id="-1696670495">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="7" />
-          <entry key="js" value="15" />
+          <entry key="html" value="11" />
+          <entry key="js" value="27" />
           <entry key="ts" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="7" />
-          <entry key="JavaScript" value="15" />
+          <entry key="HTML" value="11" />
+          <entry key="JavaScript" value="27" />
           <entry key="TypeScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1800" />
-          <entry key="JavaScript" value="4070" />
+          <entry key="HTML" value="1973" />
+          <entry key="JavaScript" value="5132" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="1800" />
-          <entry key="js" value="4070" />
+          <entry key="html" value="1973" />
+          <entry key="js" value="5132" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -104,19 +68,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.js">
+        <entry file="file://$PROJECT_DIR$/views/querytransaction.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/controllers/account.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="255">
+              <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -124,17 +79,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/js/wallet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="85" column="14" lean-forward="true" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
+            <state relative-caret-position="283">
+              <caret line="65" column="9" lean-forward="true" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/Transaction.html">
+        <entry file="file://$PROJECT_DIR$/router/router.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+            <state relative-caret-position="330">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/transaction.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="75" column="26" lean-forward="true" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -146,10 +110,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/controllers/createAccount.js">
+        <entry file="file://$PROJECT_DIR$/static/html/nav.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -157,26 +121,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/controllers/transaction.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/router/router.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="19" column="58" lean-forward="true" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/CreateAccount.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            <state relative-caret-position="195">
+              <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -191,6 +137,8 @@
       <find>unlockAccountByKeystore</find>
       <find>unlockAccountWithKeystore</find>
       <find>sendtransaction</find>
+      <find>validate</find>
+      <find>transaction_complete_blockhash</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -203,13 +151,14 @@
         <option value="$PROJECT_DIR$/views/CreateAccount.html" />
         <option value="$PROJECT_DIR$/controllers/createAccount.js" />
         <option value="$PROJECT_DIR$/views/downloadkeystore.html" />
-        <option value="$PROJECT_DIR$/static/html/nav.html" />
         <option value="$PROJECT_DIR$/utils/myUtils.js" />
-        <option value="$PROJECT_DIR$/views/Transaction.html" />
         <option value="$PROJECT_DIR$/controllers/account.js" />
+        <option value="$PROJECT_DIR$/views/Transaction.html" />
         <option value="$PROJECT_DIR$/router/router.js" />
-        <option value="$PROJECT_DIR$/static/js/wallet.js" />
+        <option value="$PROJECT_DIR$/static/html/nav.html" />
+        <option value="$PROJECT_DIR$/views/querytransaction.html" />
         <option value="$PROJECT_DIR$/controllers/transaction.js" />
+        <option value="$PROJECT_DIR$/static/js/wallet.js" />
       </list>
     </option>
   </component>
@@ -229,10 +178,10 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
-    <option name="y" value="23" />
-    <option name="width" value="1276" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="330" />
+    <option name="y" value="65" />
+    <option name="width" value="1282" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectView">
@@ -240,7 +189,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,7 +199,7 @@
             <path>
               <item name="3_wallet" type="b2602c69:ProjectViewProjectNode" />
               <item name="3_wallet" type="462c0819:PsiDirectoryNode" />
-              <item name="router" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="3_wallet" type="b2602c69:ProjectViewProjectNode" />
@@ -262,7 +210,7 @@
               <item name="3_wallet" type="b2602c69:ProjectViewProjectNode" />
               <item name="3_wallet" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="keystore" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="3_wallet" type="b2602c69:ProjectViewProjectNode" />
@@ -273,6 +221,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,6 +232,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/js/lib" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -322,22 +276,43 @@
       <workItem from="1534760313877" duration="606000" />
       <workItem from="1534766467916" duration="6717000" />
       <workItem from="1534776069954" duration="1916000" />
-      <workItem from="1534818748059" duration="18535000" />
+      <workItem from="1534818748059" duration="18810000" />
+      <workItem from="1534903405457" duration="9487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28243000" />
+    <option name="totallyTimeSpent" value="38005000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="1276" height="777" extended-state="0" />
+    <frame x="2" y="23" width="1282" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24940239" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2482157" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3562044" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2482157" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -349,26 +324,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3562044" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24940239" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="npm" order="2" side_tool="true" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.4890511" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -391,31 +347,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/html/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/web3/types.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
           <caret line="388" column="43" selection-start-line="388" selection-start-column="43" selection-end-line="388" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/CreateAccount.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -426,17 +361,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/router/router.js">
+    <entry file="file://$PROJECT_DIR$/views/createAccount.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="19" column="58" lean-forward="true" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+        <state relative-caret-position="165">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/Transaction.html">
+    <entry file="file://$PROJECT_DIR$/static/js/lib/jquery-3.3.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/lib/jquery.url.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/koa-router/lib/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="352" lean-forward="true" selection-start-line="352" selection-end-line="352" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/createAccount.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/html/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/transaction.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="75" column="26" lean-forward="true" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -446,31 +437,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/views/querytransaction.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/static/js/wallet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="85" column="14" lean-forward="true" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/account.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/createAccount.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="283">
+          <caret line="65" column="9" lean-forward="true" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/transaction.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        <state relative-caret-position="195">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
         </state>
       </provider>
     </entry>

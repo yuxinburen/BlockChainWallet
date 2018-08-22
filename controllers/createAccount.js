@@ -8,7 +8,7 @@ module.exports = {
         await ctx.render("createAccount.html")
     },
 
-    createAccountAcion: async (ctx) => {
+    createAccountAction: async (ctx) => {
         console.log(ctx.request.body.password);
 
         //1.创建钱包账户

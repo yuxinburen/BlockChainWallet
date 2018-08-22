@@ -8,7 +8,7 @@ const accountController = require("../controllers/account");
 //获取创建钱包的html page
 router.get("/createAccount", createAccountController.createAccountHtml);
 //创建钱包页面的submit button 事件
-router.post("/createAccount", createAccountController.createAccountAcion);
+router.post("/createAccount", createAccountController.createAccountAction);
 
 //根据keystore文件解锁账户
 router.post("/unlockAccountWithKeystore", accountController.unlockAccountWithKeystore);

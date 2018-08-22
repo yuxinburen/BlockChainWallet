@@ -8,9 +8,7 @@ Learn this project, you need to master：
 2. You can read the Html, JavaScript, Node.js code，if you can program use Node.js, that are better.
 3. You should knowledge some web3.js api, you can get it in https://web3js.readthedocs.io/en/1.0/web3-eth.html.
 
-If you have any question want to question me, this is my WeChat：
-
-![WeChat](../img/wechat.jpeg)
+If you have any question want to question me, this is my WeChat：hongwei4343
 
 #### Installation：
 

@@ -10,7 +10,7 @@ Learn this project, you need to master：
 
 If you have any question want to question me, this is my WeChat：
 
-![5031534927176_.pic](/Users/hongweiyu/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/218c6faafb658502ebeb8fff06620a47/Message/MessageTemp/218c6faafb658502ebeb8fff06620a47/Image/5031534927176_.pic.jpg)
+![WeChat](https://img-blog.csdn.net/20180822164429430?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3Nkanp5dXhpbmJ1cmVu/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 #### Installation：
 

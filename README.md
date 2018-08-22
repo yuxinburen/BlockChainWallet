@@ -10,7 +10,7 @@ Learn this project, you need to master：
 
 If you have any question want to question me, this is my WeChat：
 
-![WeChat](/img/wechat.jpeg)
+![WeChat](../img/wechat.jpeg)
 
 #### Installation：
 

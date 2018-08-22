@@ -10,7 +10,7 @@ Learn this project, you need to master：
 
 If you have any question want to question me, this is my WeChat：
 
-![WeChat](https://img-blog.csdn.net/20180822164429430?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3Nkanp5dXhpbmJ1cmVu/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![WeChat](/Users/hongweiyu/Documents/Nodejs_code/Publish_token/3_wallet/static/img/wechat.jpeg)
 
 #### Installation：
 
